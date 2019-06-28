@@ -1,0 +1,29 @@
+<products>
+<product>
+	<id></id>
+	<name></name>
+	<description></description>
+	<price></price>
+	<discountedPrice></discountedPrice>
+	<discountPercentage></discountPercentage>
+	<catagory></catagory>
+	<tax></tax>
+	<ot1></ot1>
+	<ot2></ot2>
+	<ot3></ot3>
+</product>
+<product>
+	<id></id>
+	<name></name>
+	<description></description>
+	<price></price>
+	<discountedPrice></discountedPrice>
+	<discountPercentage></discountPercentage>
+	<catagory></catagory>
+	<tax></tax>
+	<taxPercentage></taxPercentage>
+	<ot1></ot1>
+	<ot2></ot2>
+	<ot3></ot3>
+</product>
+</products>
